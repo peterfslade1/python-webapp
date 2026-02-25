@@ -7,7 +7,7 @@ body {
 h1 { color: maroon;
 }
 
-h2 { color: mediumvioletred;
+h2 { color: rgb(66, 148, 134);
 }
 
 footer > p { color: white;
@@ -33,7 +33,7 @@ footer {
 }
 
 .button {
-  background-color: DarkGoldenrod;
+  background-color: orangered;
   border: none;
   color: white;
   padding: 15px 32px;
